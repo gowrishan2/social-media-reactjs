@@ -21,8 +21,8 @@ const PostPage = () => {
             {!post &&
                 <>
                     <h2>Post Not Found</h2>
-                    <p>Well, that is disappointing.</p>
-                    <p><Link to='/'>VIsit out Homepage</Link></p>
+                    <p>Well, that's disappointing.</p>
+                    <p><Link to='/'>Visit out Homepage</Link></p>
                 </>
 
             }
