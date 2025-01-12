@@ -16,7 +16,7 @@ function App() {
   return (
     <div className="App">
       <DataProvider>
-        <Header title="React learning"/>
+        <Header title="SOCIAL MEDIA"/>
         <Nav />
         <Routes>
         <Route path="/" element={
